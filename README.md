@@ -1,5 +1,9 @@
-👋 Hi, I’m Matías
-<!---
-claaj/claaj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hola!  :wave: Soy Matías Cajal
+
+---
+
+### Actualmente soy estudiante de [Ingenieria en Computación en la *Universidad Nacional de Rio Negro*.](https://www.unrn.edu.ar/carreras/Ingenieria-en-Computacion-78)
+
+**No se** que **más** poner.
+
+
