@@ -4,7 +4,7 @@
 
 ![Badge](https://bit.ly/icom-badge)
 
-Acutalmente estudiante de Ingeniería en Computación en la [UNRN](https://www.unrn.edu.ar/home) y aprendiendo Rust :crab: en mis tiempos libres.
+Estudiante de Ingeniería en Computación en la [UNRN](https://www.unrn.edu.ar/home), aprendiendo Rust :crab: en mis tiempos libres.
 
 #### Utilizando: 
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
